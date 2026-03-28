@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark
+    xmlns="https://znshah.github.io/cse445a4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="https://znshah.github.io/cse445a4 https://znshah.github.io/cse445a4/NationalParksErrors.xsd" >
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Yellowstone</Name>
+		<Phone>307-344-7381</Phone>
+		<Address>
+			<Number>2</Number>
+			<Street>Officers Row</Street>
+			<City>Yellowstone National Park</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Olympic</Name>
+		<Name>Olympic 2</Name>
+		<Phone>360-565-3130</Phone>
+		<Phone>360-565-3100</Phone>
+		<Phone>360-565-3131</Phone>
+		<Address NearestAirport="Seattle">
+			<Number>3002</Number>
+			<Street>Mount Angeles Road</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>White Sands</Name>
+		<Address NearestAirport="LasCruces">
+			<Number>19955</Number>
+			<Street>Highway 70 West</Street>
+			<City>Alamogordo</City>
+			<State>NM</State>
+			<Zip>88310</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Carlsbad Caverns</Name>
+		<Phone>575-785-2232</Phone>
+		<Phone>575-236-1374</Phone>
+		<Address NearestAirport="ElPaso">
+			<Number>727</Number>
+			<Street>Carlsbad Caverns Highway</Street>
+			<City>Carlsbad</City>
+			<State>NM</State>
+			<Zip>88220</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Guadalupe Mountains</Name>
+		<Phone>915-828-3251</Phone>
+		<Address NearestAirport="ElPaso">
+			<Number>400</Number>
+			<Street>Pine Canyon</Street>
+			<City>Salt Flat</City>
+			<State>TX</State>
+			<Zip>79847</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Joshua Tree</Name>
+		<Phone>760-367-5500</Phone>
+		<Address NearestAirport="TwentyninePalms">
+			<Number>74485</Number>
+			<Street>National Park Drive</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zip>92277</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.9">
+		<Name>Acadia</Name>
+		<Phone>207-288-3338</Phone>
+		<Address NearestAirport="Bangor">
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Capitol Reef</Name>
+		<Phone>435-425-3791</Phone>
+		<Address NearestAirport="BryceCanyon">
+			<Number>52</Number>
+			<Street>West Headquarters Drive</Street>
+			<City>Torrey</City>
+			<State>UT</State>
+			<Zip>84775</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Big Bend</Name>
+		<Phone>432-477-2251</Phone>
+		<Address NearestAirport="Midland-Odessa">
+			<Number>1</Number>
+			<Street>Panther Junction</Street>
+			<City>Big Bend National Park</City>
+			<State>TX</State>
+			<Zip>79834</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="4.8">
+		<Name>Shenandoah</Name>
+		<Phone>540-999-3500</Phone>
+		<Phone>800-732-0911</Phone>
+		<Address NearestAirport="Charlottesville">
+			<Number>3655</Number>
+			<Street>Hwy 211 East</Street>
+			<City>Luray</City>
+			<State>VA</State>
+			<Zip>22835</Zip>
+	</NationalPark>
+</NationalPark>
